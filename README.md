@@ -19,12 +19,14 @@ The BME688 has temperature, barometric pressure, air humidity, altitude and gas 
 3) PMS(Particulate Matter Sensor);
 A particulate matter (PM) sensor measures the concentration of floating particles in the air. PM sensors can be laser-based, and work by using a laser to illuminate a particle and then collecting the light that scatters. The sensor can then count the particles in the air, and provide real-time information  on air pollution.
 
-   ![image](https://github.com/9RP6/AQ-dashboard/assets/96533361/28403320-3cc3-4367-ac98-845e78ebbef7)
+   ![image](https://github.com/9RP6/AQ-dashboard/assets/96533361/c47f367d-c5e9-4d1a-b230-a92ea2bc23e7)
+
 
 4) NEO-6M
 With its low power consumption, compact size, and high accuracy, the NEO-6M GPS module is a popular choice for GPS applications in various fields, such as navigation, location tracking, and autonomous vehicles. The module has four pins: VCC, GND, RX, and TX.
 
-   ![image](https://github.com/9RP6/AQ-dashboard/assets/96533361/47b65a1b-efec-43e6-af3f-de020890a1f6)
+   ![image](https://github.com/9RP6/AQ-dashboard/assets/96533361/6a70518a-0fca-4620-9b7b-698702b57d6a)
+
 
 
 # UML DIAGRAM WHICH DEPICTS THE FLOW OF DATA:
